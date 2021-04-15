@@ -25,7 +25,7 @@ a is (3, 4i)
 a + c is (13, 16i)
 a - c is (-7, -8i)
 a * c is (-18, 76i)
-2 * c is (20,24i)
+2 * c is (20, 24i)
 Enter a complex number(q to quit):
 real: q
 Done!

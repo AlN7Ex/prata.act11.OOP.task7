@@ -8,7 +8,6 @@ Complex::Complex()
 }
 Complex::Complex(double r)
 {
-	std::cout << "Complex::Complex(" << r << ")" << std::endl;
 	real = r;
 	imag = 0.0;
 }
